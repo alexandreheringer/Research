@@ -5,8 +5,11 @@ build/
 dist/
 wheels/
 *.egg-info
-agent/
+.agent/
 .claude/
 
 # Virtual environments
 .venv
+
+# System files
+.DS_Store
