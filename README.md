@@ -10,9 +10,8 @@ Multi-year expansion forecast model for internet service providers (ISPs) in a s
 
 ## Installation
 
-```bash
-pip install pandas numpy
-```
+# Install dependencies
+uv sync
 
 ## Project Structure
 
